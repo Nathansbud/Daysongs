@@ -12,6 +12,14 @@ body {
     padding: 2rem;
 }
 
+#title {
+    color: goldenrod
+}
+
+#date-name {
+    color: #e8e2d9;
+}
+
 .container {
     max-width: 600px;
     margin: 0 auto;
