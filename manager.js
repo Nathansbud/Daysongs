@@ -744,11 +744,12 @@ const datedTracks = {
   "09-25": [],
   "09-26": [
     {
-      "title": "September 16",
+      "title": "Sept. 16",
       "artist": "Kid Cudi",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/2DT8KK9JK8HqPph9ZuWVn3?si=ad6448194c5d4912h"
+        "apple": "https://music.apple.com/us/song/sept-16/1543636005",
+        "spotify": "https://open.spotify.com/track/2DT8KK9JK8HqPph9ZuWVn3?si=ad6448194c5d4912h",
+        "tidal": "https://tidal.com/track/165856849"
       },
     }
   ],
