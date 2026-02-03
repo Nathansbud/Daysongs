@@ -715,7 +715,17 @@ const datedTracks = {
   "09-13": [],
   "09-14": [],
   "09-15": [],
-  "09-16": [],
+  "09-16": [
+    {
+      "title": "Sept. 16",
+      "artist": "Kid Cudi",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/sept-16/1543636005",
+        "spotify": "https://open.spotify.com/track/2DT8KK9JK8HqPph9ZuWVn3?si=ad6448194c5d4912h",
+        "tidal": "https://tidal.com/track/165856849"
+      },
+    }
+  ],
   "09-17": [],
   "09-18": [],
   "09-19": [],
@@ -742,17 +752,7 @@ const datedTracks = {
   "09-23": [],
   "09-24": [],
   "09-25": [],
-  "09-26": [
-    {
-      "title": "Sept. 16",
-      "artist": "Kid Cudi",
-      "external_links": {
-        "apple": "https://music.apple.com/us/song/sept-16/1543636005",
-        "spotify": "https://open.spotify.com/track/2DT8KK9JK8HqPph9ZuWVn3?si=ad6448194c5d4912h",
-        "tidal": "https://tidal.com/track/165856849"
-      },
-    }
-  ],
+  "09-26": [],
   "09-27": [],
   "09-28": [],
   "09-29": [
