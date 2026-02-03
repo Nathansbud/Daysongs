@@ -290,7 +290,17 @@ const datedTracks = {
     }
   ],
   "04-30": [],
-  "05-01": [],
+  "05-01": [
+    {
+      "title": "First of May",
+      "artist": "Jonathan Coulton",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/first-of-may/320730094",
+        "spotify": "https://open.spotify.com/track/23ccw9IV7tLWufvZzmZT1D?si=9946ccdcd15b4c73",
+        "tidal": "https://tidal.com/track/111768281"
+      }
+    }
+  ],
   "05-02": [],
   "05-03": [
     {
