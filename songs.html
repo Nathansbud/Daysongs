@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="style.css">
+        <script src="manager.js" defer></script>
+    </head>
+    <body>
+        <div class="container">
+            <h1><span id="date-name"></span></h1>
+
+            <div id="track-container" class="track-container">
+                <div id="no-song-message" class="no-song-message">
+                    No song found for today.
+                </div>
+
+                <div id="song-info" class="song-info" style="display: none;">
+                    <h2 id="song-title" class="song-title"></h2>
+                    <p id="song-artist" class="song-artist"></p>
+
+                    <div id="external-links" class="external-links"></div>
+
+                    <div id="navigation" class="navigation" style="display: none;">
+                        <button id="prev-btn" class="nav-btn">Previous</button>
+                        <span id="song-counter" class="song-counter"></span>
+                        <button id="next-btn" class="nav-btn">Next</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

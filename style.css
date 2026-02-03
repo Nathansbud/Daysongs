@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #120e09;
+    color: #e8e2d9;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    min-height: 100vh;
+    padding: 2rem;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+    line-height: 1.4;
+}
+
+.track-container {
+    margin-top: 1.5rem;
+}
+
+.no-song-message {
+    color: #8a8072;
+    font-style: italic;
+}
+
+.song-info {
+    padding: 1.5rem 0;
+}
+
+.song-title {
+    font-size: 1.75rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    color: #fff;
+}
+
+.song-artist {
+    font-size: 1.1rem;
+    color: #a89f91;
+    margin-bottom: 1.5rem;
+}
+
+.external-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-bottom: 2rem;
+}
+
+.external-link {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: opacity 0.2s;
+}
+
+.external-link:hover {
+    opacity: 0.85;
+}
+
+.external-link.spotify {
+    background-color: #1db954;
+    color: #fff;
+}
+
+.external-link.apple {
+    background-color: #fc3c44;
+    color: #fff;
+}
+
+.external-link.tidal {
+    /* grey */
+    background-color: #808080;
+    color: #fff;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid #2a241c;
+}
+
+.nav-btn {
+    background-color: #2a241c;
+    color: #e8e2d9;
+    border: none;
+    padding: 0.6rem 1.2rem;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9rem;
+    transition: background-color 0.2s;
+}
+
+.nav-btn:hover {
+    background-color: #3a3228;
+}
+
+.song-counter {
+    color: #8a8072;
+    font-size: 0.9rem;
+}
