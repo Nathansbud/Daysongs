@@ -722,7 +722,17 @@ const datedTracks = {
       },
     }
   ],
-  "09-13": [],
+  "09-13": [
+    {
+      "title": "september 13th",
+      "artist": "Yaya Bey",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/september-13th/1552407446",
+        "spotify": "https://open.spotify.com/track/4FteVQ0B8V6OmU49nMeJ0x?si=b30459986aa3425d",
+        "tidal": "https://tidal.com/track/174910024"
+      },
+    }
+  ],
   "09-14": [],
   "09-15": [],
   "09-16": [
