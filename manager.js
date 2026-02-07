@@ -82,7 +82,26 @@ const datedTracks = {
   "02-04": [],
   "02-05": [],
   "02-06": [],
-  "02-07": [],
+  "02-07": [
+    {
+      "title": "February Seven",
+      "artist": "The Avett Brothers",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/february-seven/1440808747",
+        "spotify": "https://open.spotify.com/track/6B6C1OC9RUvrvBECPWtAZo?si=34c5fd293beb47c1",
+        "tidal": "https://tidal.com/track/77698695/"
+      },
+    },
+    {
+      "title": "Minneapolis Morning, February 7",
+      "artist": "Falling",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/minneapolis-morning-february-7th/1129417614",
+        "spotify": "https://open.spotify.com/track/6fGl8qqjjPfEiREJThSQxY",
+        "tidal": "https://tidal.com/track/62509436/"
+      }
+    }
+  ],
   "02-08": [],
   "02-09": [],
   "02-10": [],
@@ -413,7 +432,17 @@ const datedTracks = {
   "05-31": [],
   "06-01": [],
   "06-02": [],
-  "06-03": [],
+  "06-03": [
+    {
+      "title": "Ode to Billie Joe",
+      "artist": "Bobbie Gentry",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/ode-to-billie-joe/714615292",
+        "spotify": "https://open.spotify.com/track/4FdDorlbJTVHcH3djLbIfn",
+        "tidal": "https://tidal.com/track/2470645/"
+      }
+    }
+  ],
   "06-04": [],
   "06-05": [],
   "06-06": [],
@@ -872,7 +901,17 @@ const datedTracks = {
       },
     }
   ],
-  "11-11": [],
+  "11-11": [
+    {
+      "title": "Armistice Day",
+      "artist": "Paul Simon",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/armistice-day/380588839",
+        "spotify": "https://open.spotify.com/track/6Hn3aQsZQGzUutftOSZtQ7?si=707e41de96c24007",
+        "tidal": "https://tidal.com/track/4157837/"
+      },
+    }
+  ],
   "11-12": [],
   "11-13": [],
   "11-14": [],
