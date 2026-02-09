@@ -544,6 +544,15 @@ const datedTracks = {
       },
     },
     {
+      "title": "NUEVAYoL",
+      "artist": "Bad Bunny",
+      "external_links": {
+        "apple": "https://music.apple.com/us/album/nuevayol/1787022393?i=1787022572",
+        "spotify": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
+        "tidal": "https://tidal.com/album/409386860/track/409386861",
+      }
+    },
+    {
       "title": "Star Witness",
       "artist": "Neko Case",
       "external_links": {
