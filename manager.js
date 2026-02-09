@@ -4,9 +4,17 @@ const datedTracks = {
       "title": "The New Year",
       "artist": "Death Cab for Cutie",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/3yLgtIF1dEk9LJzaARBRxJ?si=pD6rdB20Tnm-Ayp3Hsd_UQh"
       },
+    },
+    {
+      "title": "DECEMBER 31ST",
+      "artist": "Ty Dolla $ign ft. A$AP Rocky & Tommy Revenge",
+      "external_links": {
+        "apple": "https://music.apple.com/us/album/december-31st-feat-a%24ap-rocky-tommy-revenge/1818661938?i=1818662133",
+        "spotify": "https://open.spotify.com/track/0YUd3iXqJA4YPhqHbPHAQ0?si=5ad935bd8db74533",
+        "tidal": "https://tidal.com/album/467484061/track/467484064"
+      }
     }
   ],
   "01-02": [],
@@ -22,7 +30,6 @@ const datedTracks = {
       "title": "January 10, 2014",
       "artist": "The World Is A Beautiful Place & I Am No Longer Afraid To Die",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/0CZpruCAAoKC9DXB587jeN?si=2e1245dca3714bcdh"
       },
     }
@@ -32,7 +39,6 @@ const datedTracks = {
       "title": "January 11",
       "artist": "Robo Pumpkin",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/6a8bmL8HEhf8k3D1krmajS?si=d22e7e93c1ee4425h"
       },
     }
@@ -56,9 +62,8 @@ const datedTracks = {
   "01-28": [
     {
       "title": "January 28",
-      "artist": "J Cole",
+      "artist": "J. Cole",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/6LBpGdlukUARutol7VgWIS?si=2282bc8f1e4b49cah"
       },
     }
@@ -125,7 +130,6 @@ const datedTracks = {
       "title": "February 26",
       "artist": "Robo Pumpkin",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/4LgpU7rGq7JKBH6w27wpKU?si=2f3c2c8ed22b4b74h"
       },
     },
@@ -147,7 +151,6 @@ const datedTracks = {
       "title": "Casimir Pulaski Day",
       "artist": "Sufjan Stevens",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv?si=2027e2eb4f4949bdh"
       },
     }
@@ -169,7 +172,6 @@ const datedTracks = {
       "title": "March 14",
       "artist": "Drake",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/09lmraDvzBT3pUQ2rUtJzK?si=c114c31fe2964a19h"
       },
     }
@@ -183,7 +185,6 @@ const datedTracks = {
       "title": "(March 19 1983) It Was Probably Green",
       "artist": "Carissa's Wierd",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/6e7oObDahu70V9bd1zsqON?si=46c8672f1ff4481fh"
       },
     }
@@ -205,7 +206,6 @@ const datedTracks = {
       "title": "Avery Island / April 1",
       "artist": "Neutral Milk Hotel",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/04aJtorJL9ad4JbExB9IEy?si=6c42c100d4b843ebh"
       },
     }
@@ -217,7 +217,6 @@ const datedTracks = {
       "title": "Pride (In The Name Of Love)",
       "artist": "U2",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d?si=ba0eff13d7494e5bh"
       },
     }
@@ -246,7 +245,6 @@ const datedTracks = {
       "title": "Avril 14",
       "artist": "Aphex Twin",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/1uaGSDFsLdReQgg8p7Obwh?si=4dU3fxMMT9e33Cd9xBG7iAh"
       },
     },
@@ -254,15 +252,13 @@ const datedTracks = {
       "title": "April the 14th Part 1",
       "artist": "Gillian Welch",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/5EanV7AK9n1q76Ecxe31YH?si=40398d1870714c36h"
       },
     },
     {
-      "title": "D\u00eda 14 de Abril",
-      "artist": "Rosal\u00eda",
+      "title": "Día 14 de Abril",
+      "artist": "Rosalía",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/623kdaD0Wi2L0L6GyZvXUP?si=e817eba1952b4353h"
       },
     }
@@ -278,7 +274,6 @@ const datedTracks = {
       "title": "21/04/20",
       "artist": "Kero Kero Bonito",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/3a6Bj474rn6AGwRGgNBFMp?si=0f6a15f40854447fh"
       },
     }
@@ -289,9 +284,8 @@ const datedTracks = {
   "04-25": [
     {
       "title": "April 25",
-      "artist": "The Goalie\u2019s Anxiety at the Penalty Kick",
+      "artist": "The Goalie's Anxiety at the Penalty Kick",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/6loq6S1izAysB74laFPod7?si=MiviSVXNSriNX2v71BCeAAh"
       },
     }
@@ -301,8 +295,9 @@ const datedTracks = {
       "title": "Churro",
       "artist": "Malibu Ken",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/58DV1sAKBJobANTUCklFryh"
+        "apple": "https://music.apple.com/us/album/churro/1516732385?i=1516732848",
+        "spotify": "https://open.spotify.com/track/58DV1sAKBJobANTUCklFry?si=d2cc15b1716c4a95",
+        "tidal": "https://tidal.com/track/143829709/"
       },
     }
   ],
@@ -313,8 +308,7 @@ const datedTracks = {
       "title": "High Infidelity",
       "artist": "Taylor Swift",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap?si=c096391430354382h"
+        "spotify": "https://open.spotify.com/track/5kiZGSxgqPdv6rbqL9THdd?si=ed0e024a50244200"
       },
     }
   ],
@@ -336,7 +330,6 @@ const datedTracks = {
       "title": "Third of May",
       "artist": "Fleet Foxes",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/2tUiuvEUs1Tw2pnfZUeIz1?si=f74668c5ecf14e40h"
       },
     }
@@ -347,7 +340,6 @@ const datedTracks = {
       "title": "Isis",
       "artist": "Bob Dylan",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l?si=6122d3344dd84b9fh"
       },
     }
@@ -360,7 +352,6 @@ const datedTracks = {
       "title": "May Ninth",
       "artist": "Khruangbin",
       "external_links": {
-        "apple": null,
         "spotify": "https://open.spotify.com/track/5yVGW2o9LXaiiS4I3HUM3k?si=26dbf86df5de4a3ch"
       },
     }
@@ -370,31 +361,20 @@ const datedTracks = {
       "title": "The Night They Drove Old Dixie Down",
       "artist": "The Band",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/5yVGW2o9LXaiiS4I3HUM3k?si=26dbf86df5de4a3ch"
+        "spotify": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo?si=47ebe63236444457"
       },
     },
     {
       "title": "Jackie Onassis",
       "artist": "Sammy Rae & The Friends",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/5yVGW2o9LXaiiS4I3HUM3k?si=26dbf86df5de4a3ch"
+        "spotify": "https://open.spotify.com/track/2t034uMx7XDFSOEp48dXPI?si=13535ecda39f4656"
       },
     }
   ],
   "05-11": [],
   "05-12": [],
-  "05-13": [
-    {
-      "title": "Red-Winged Black Birds (March 13, 2024)",
-      "artist": "Simon Joyner",
-      "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/5yVGW2o9LXaiiS4I3HUM3k?si=26dbf86df5de4a3ch"
-      },
-    }
-  ],
+  "05-13": [],
   "05-14": [],
   "05-15": [],
   "05-16": [],
@@ -405,8 +385,7 @@ const datedTracks = {
       "title": "Burning",
       "artist": "Sam Smith",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo?si=404e7ecba51a4caeh"
+        "spotify": "https://open.spotify.com/track/2mb6YdoavL6db22p7XKJQZ?si=be1773d51ff9436e"
       },
     }
   ],
@@ -416,8 +395,7 @@ const datedTracks = {
       "title": "21st of May",
       "artist": "Nickel Creek",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/2nvcTDmZkRWKNMAL29sLHo?si=404e7ecba51a4caeh"
+        "spotify": "https://open.spotify.com/track/0hyhmEE6fFefO00bGN1yxD?si=bed1745ed7b24281"
       },
     }
   ],
@@ -431,8 +409,7 @@ const datedTracks = {
       "title": "Marvin Hits Trina",
       "artist": "Falsettos Cast Recording",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/7GPBA8xjMJyN6SjoKd4O9E?si=11d483c5b6484df1h"
+        "spotify": "https://open.spotify.com/track/1Z0cKK7G8qoXcccl6n7t9Y?si=142dfb2960a04f4f"
       },
     }
   ],
@@ -468,8 +445,7 @@ const datedTracks = {
       "title": "june 14",
       "artist": "Lauren Auder",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/2mb6YdoavL6db22p7XKJQZ?si=58247272f62a4beah"
+        "spotify": "https://open.spotify.com/track/3qY4Ruy2iemcUvUA8pKkly?si=2822ac3abb5f474f"
       },
     }
   ],
@@ -482,8 +458,7 @@ const datedTracks = {
       "title": "party 4 u",
       "artist": "Charli XCX",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/0hyhmEE6fFefO00bGN1yxD?si=c6a575768e994044h"
+        "spotify": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE?si=718ee72d0aac4de3"
       },
     }
   ],
@@ -493,16 +468,14 @@ const datedTracks = {
       "title": "June 21st",
       "artist": "Jeff Rosenstock",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/1Z0cKK7G8qoXcccl6n7t9Y?si=a0dcf0ea497541e6h"
+        "spotify": "https://open.spotify.com/track/5hIPEByGk0695Dx6E0xgHY?si=fcd3fb94b1e04688"
       },
     },
     {
       "title": "June 21",
       "artist": "Prototymartyr",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/2fgAJeky8Cpsr8Cfvn2NVp?si=13924c6159f54f38h"
+        "spotify": "https://open.spotify.com/track/3DqEUd9EoYPcNCa26U6226?si=3b357c1241d04020"
       },
     }
   ],
@@ -514,8 +487,7 @@ const datedTracks = {
       "title": "June 25",
       "artist": "Robo Pumpkin",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE?si=9512ad8d04104737h"
+        "spotify": "https://open.spotify.com/track/3zSM2Yqh0gnGeWSRWqUTxs?si=13e8a0117efe462a"
       },
     }
   ],
@@ -529,8 +501,7 @@ const datedTracks = {
       "title": "Cross Your Mind",
       "artist": "Shelly",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3DqEUd9EoYPcNCa26U6226?si=9d7077b901d1486ch"
+        "spotify": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84?si=6db20748396e473d"
       },
     }
   ],
@@ -541,16 +512,14 @@ const datedTracks = {
       "title": "Fourth of July",
       "artist": "Sufjan Stevens",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3DqEUd9EoYPcNCa26U6226?si=9d7077b901d1486ch"
+        "spotify": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz?si=e2d1999b5c3b4a4d"
       },
     },
     {
       "title": "The Remedy (I Won't Worry)",
       "artist": "Jason Mraz",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3DqEUd9EoYPcNCa26U6226?si=9d7077b901d1486ch"
+        "spotify": "https://open.spotify.com/track/4tK4ARuilOrBzwVQK73E0Y?si=160e2c7135024cb2"
       },
     },
     {
@@ -566,48 +535,42 @@ const datedTracks = {
       "title": "Star Witness",
       "artist": "Neko Case",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3DqEUd9EoYPcNCa26U6226?si=9d7077b901d1486ch"
+        "spotify": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap?si=308bb423bcb847bd"
       },
     },
     {
       "title": "4th of July, Ashbury Park (Sandy)",
       "artist": "Bruce Springsteen",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3I0FBDc1c1BLNtXWKVjmFg?si=0ff4630b4fef4abbh"
+        "spotify": "https://open.spotify.com/track/4ssCwrG2WRHV7QxLH91Xk8?si=61fc1d00da674f5b"
       },
     },
     {
       "title": "Saturday in the Park",
       "artist": "Chicago",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3I0FBDc1c1BLNtXWKVjmFg?si=0ff4630b4fef4abbh"
+        "spotify": "https://open.spotify.com/track/6suCI1pLqqvVVLLvLzjoKc?si=7eb4fc831c5a460d"
       },
     },
     {
       "title": "5th of July",
       "artist": "Owl City",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3I0FBDc1c1BLNtXWKVjmFg?si=0ff4630b4fef4abbh"
+        "spotify": "https://open.spotify.com/track/2DT8KK9JK8HqPph9ZuWVn3?si=b16ad4d1d3ec49de"
       },
     },
     {
       "title": "Knew Better (with Lil Yachty)",
       "artist": "JID",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3I0FBDc1c1BLNtXWKVjmFg?si=0ff4630b4fef4abbh"
+        "spotify": "https://open.spotify.com/track/0oOXhEAEtXbUc6xjHbIP9j?si=1e2c0485d26c4f55"
       },
     },
     {
       "title": "Fourth of July",
       "artist": "Sluice",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3I0FBDc1c1BLNtXWKVjmFg?si=0ff4630b4fef4abbh"
+        "spotify": "https://open.spotify.com/track/7n2To0qEgpU2dsZh9srwJI?si=f10431c649454738"
       },
     }
   ],
@@ -616,16 +579,23 @@ const datedTracks = {
       "title": "Cassius, -",
       "artist": "Fleet Foxes",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3I0FBDc1c1BLNtXWKVjmFg?si=0ff4630b4fef4abbh"
+        "spotify": "https://open.spotify.com/track/3mEvpOYZJMtKgF2dWklmq5?si=ecfbc635dfa941a8"
       },
+    },
+    {
+      "title": "July 5th",
+      "artist": "Horse Jumper of Love",
+      "external_links": {
+        "apple": "https://music.apple.com/us/album/july-5th/1492128295?i=1492128459",
+        "spotify": "https://open.spotify.com/track/5ih6yCydK8hS8CBDJGt5WD?si=afbdcf4ed8af4135",
+        "tidal": "https://tidal.com/track/125998785/"
+      }
     },
     {
       "title": "5th of July",
       "artist": "Owl City",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3I0FBDc1c1BLNtXWKVjmFg?si=0ff4630b4fef4abbh"
+        "spotify": "https://open.spotify.com/track/2DT8KK9JK8HqPph9ZuWVn3?si=b16ad4d1d3ec49de"
       },
     }
   ],
@@ -669,8 +639,7 @@ const datedTracks = {
       "title": "August 10",
       "artist": "Julie Doiron",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3I0FBDc1c1BLNtXWKVjmFg?si=0ff4630b4fef4abbh"
+        "spotify": "https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj?si=b15d2a74e23d4ecf"
       },
     }
   ],
@@ -691,21 +660,19 @@ const datedTracks = {
   "08-25": [],
   "08-26": [
     {
-      "title": "August 26 – 27",
+      "title": "August 26–27",
       "artist": "Robo Pumpkin",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/4M2t7bP4Mq87mGMn0PObUX?si=d9c8e30b476b4846h"
+        "spotify": "https://open.spotify.com/track/6Fe9nwGNNnBdAa8P3P9nd9?si=b09eb336ab964160"
       },
     }
   ],
   "08-27": [
     {
-      "title": "August 26\u201327",
+      "title": "August 26–27",
       "artist": "Robo Pumpkin",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84?si=-HCkETQwRVezRQjz0NvZ0gh"
+        "spotify": "https://open.spotify.com/track/6Fe9nwGNNnBdAa8P3P9nd9?si=b09eb336ab964160"
       },
     }
   ],
@@ -720,8 +687,7 @@ const datedTracks = {
       "title": "Papa Was a Rollin' Stone",
       "artist": "The Temptations",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84?si=-HCkETQwRVezRQjz0NvZ0gh"
+        "spotify": "https://open.spotify.com/track/7MiLmLbwNoyf47xQ4TCVYp?si=3301bd5b647e47f0"
       },
     }
   ],
@@ -730,22 +696,12 @@ const datedTracks = {
       "title": "September 4",
       "artist": "Bruno Pernadas",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84?si=-HCkETQwRVezRQjz0NvZ0gh"
+        "spotify": "https://open.spotify.com/track/6nFC0JW4gCvlHmIYivMcWu?si=db9f9e2a91434cb7"
       },
     }
   ],
   "09-05": [],
-  "09-06": [
-    {
-      "title": "untitled 08 | 09.06.2014.",
-      "artist": "Kendrick Lamar",
-      "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3a3zDlE4bgI6ZvU00m6o84?si=-HCkETQwRVezRQjz0NvZ0gh"
-      },
-    }
-  ],
+  "09-06": [],
   "09-07": [],
   "09-08": [],
   "09-09": [],
@@ -755,8 +711,7 @@ const datedTracks = {
       "title": "everyday feels like 9/11",
       "artist": "Home is Where",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFzh"
+        "spotify": "https://open.spotify.com/track/2EGArYOjvb2egEEEcucio3?si=4870e8ed92574f1b"
       },
     }
   ],
@@ -765,8 +720,7 @@ const datedTracks = {
       "title": "9/12",
       "artist": "Home is Where",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/17fWdcSAhLc6559youmLap?si=ac10e8b8d7cb43d2h"
+        "spotify": "https://open.spotify.com/track/3LCamGvDQdszqhk9P0T8hB?si=a6008f0caa6e4909"
       },
     }
   ],
@@ -803,16 +757,7 @@ const datedTracks = {
       "title": "Earth, Wind, & Fire",
       "artist": "September",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/53TIOhzNpRpl8xKdscSQSv?si=1La9nmyXStaqyP6afYPoNwh"
-      },
-    },
-    {
-      "title": "untitled 05 | 09.21.2014.",
-      "artist": "Kendrick Lamar",
-      "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4?si=f4129bf358464aabh"
+        "spotify": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG?si=24f7f55606dc4469"
       },
     }
   ],
@@ -828,8 +773,7 @@ const datedTracks = {
       "title": "29 de Septiembre",
       "artist": "Las Ligas Menores",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4?si=f4129bf358464aabh"
+        "spotify": "https://open.spotify.com/track/7G0HSW2KCyL3cyNpabPcAY?si=a101dc3d3d7047e2"
       },
     }
   ],
@@ -861,8 +805,7 @@ const datedTracks = {
       "title": "emails i can't send",
       "artist": "Sabrina Carpenter",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4?si=f4129bf358464aabh"
+        "spotify": "https://open.spotify.com/track/2qLyo5FeWquE7HBUbcVnEy?si=476ad0c81400470f"
       },
     }
   ],
@@ -888,8 +831,7 @@ const datedTracks = {
       "title": "The New Style",
       "artist": "Beastie Boys",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4?si=f4129bf358464aabh"
+        "spotify": "https://open.spotify.com/track/0Mu1MYdE414HeybYSms5KK?si=fb68216267584fb9"
       },
     },
     {
@@ -911,8 +853,7 @@ const datedTracks = {
       "title": "Remember",
       "artist": "John Lennon",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4?si=f4129bf358464aabh"
+        "spotify": "https://open.spotify.com/track/4IJovoHQkKgwmH9SzAKcB8?si=fe8fc9a36d65438c"
       },
     }
   ],
@@ -925,8 +866,7 @@ const datedTracks = {
       "title": "A 1000 Times",
       "artist": "Hamilton Leithauser & Rostam",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4?si=f4129bf358464aabh"
+        "spotify": "https://open.spotify.com/track/2SiWdRwjHM3jTONnsusdWa?si=dab77e2a84a749a0"
       },
     }
   ],
@@ -952,8 +892,7 @@ const datedTracks = {
       "title": "November 18",
       "artist": "Drake",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4?si=f4129bf358464aabh"
+        "spotify": "https://open.spotify.com/track/0JaVdpmiex2EP7bBzyKVTa?si=04de90852d174e6b"
       },
     }
   ],
@@ -974,8 +913,7 @@ const datedTracks = {
       "title": "Sweet Baby James",
       "artist": "James Taylor",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4?si=f4129bf358464aabh"
+        "spotify": "https://open.spotify.com/track/17PXXzOygMyXXUNLngVN5u?si=8454ecfdd5bc4d01"
       },
     }
   ],
@@ -987,7 +925,7 @@ const datedTracks = {
       "artist": "Jay-Z",
       "external_links": {
         "apple": "https://music.apple.com/us/song/december-4th/1440785596",
-        "spotify": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4?si=f4129bf358464aabh",
+        "spotify": "https://open.spotify.com/track/7gVaf6eZDV1oQdGwvDYfmU?si=0933ac6717584fb2",
         "tidal": "https://tidal.com/track/35589581"
       },
     },
@@ -995,8 +933,7 @@ const datedTracks = {
       "title": "We",
       "artist": "The Roches",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4?si=f4129bf358464aabh"
+        "spotify": "https://open.spotify.com/track/2eoDsmvP2EgvOOoofyueG2?si=eca50250cebe4fa0"
       },
     }
   ],
@@ -1018,8 +955,7 @@ const datedTracks = {
       "title": "Margaret",
       "artist": "Lana Del Ray",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/7n2To0qEgpU2dsZh9srwJI?si=2e3ea8cff2bf4d27h"
+        "spotify": "https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6?si=9921c7eb72084443"
       },
     }
   ],
@@ -1033,16 +969,14 @@ const datedTracks = {
       "title": "December 24",
       "artist": "Earl Sweatshirt",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/7n2To0qEgpU2dsZh9srwJI?si=2e3ea8cff2bf4d27h"
+        "spotify": "https://open.spotify.com/track/0LppLsxXXDBTqihx84BJGo?si=34f219102f2e4741"
       },
     },
     {
       "title": "Chateau Lobby #4",
       "artist": "Father John Misty",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3mEvpOYZJMtKgF2dWklmq5?si=d9c57e18e0804289h"
+        "spotify": "https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g?si=e6ad51342f424e67"
       },
     }
   ],
@@ -1051,24 +985,21 @@ const datedTracks = {
       "title": "December",
       "artist": "Earth, Wind & Fire",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/2DT8KK9JK8HqPph9ZuWVn3?si=ad6448194c5d4912h"
+        "spotify": "https://open.spotify.com/track/6z26LTXBJFIPdpgYIl3JDM?si=91796e81de7740c4"
       },
     },
     {
       "title": "25th December",
       "artist": "Everything But The Girl",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/3zSM2Yqh0gnGeWSRWqUTxs?si=88ac6c5dc7ed4f8fh"
+        "spotify": "https://open.spotify.com/track/1cwNH3dJi6KLg0xPdJgLEo?si=9c1b3c89b99344a8"
       },
     },
     {
       "title": "It's Christmas And I Fucking Miss You",
       "artist": "Charly Bliss & PUP",
       "external_links": {
-        "apple": null,
-        "spotify": "https://open.spotify.com/track/0yOf4dgkVq8jbB2zxVK8Zj?si=4181016b70d04da6h"
+        "spotify": "https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz?si=2bc8945583734301"
       },
     }
   ],
@@ -1077,11 +1008,31 @@ const datedTracks = {
   "12-28": [],
   "12-29": [],
   "12-30": [],
-  "12-31": []
+  "12-31": [
+    {
+      "title": "DECEMBER 31ST",
+      "artist": "Ty Dolla $ign ft. A$AP Rocky & Tommy Revenge",
+      "external_links": {
+        "apple": "https://music.apple.com/us/album/december-31st-feat-a%24ap-rocky-tommy-revenge/1818661938?i=1818662133",
+        "spotify": "https://open.spotify.com/track/0YUd3iXqJA4YPhqHbPHAQ0?si=5ad935bd8db74533",
+        "tidal": "https://tidal.com/album/467484061/track/467484064"
+      }
+    }
+  ]
 }
 
 const holidayTracks = {
-  "easter": []
+  "easter": [
+    {
+      "title": "Easter Sunday",
+      "artist": "Zeeloperz",
+      "external_links": {
+        "apple": "https://music.apple.com/us/album/easter-sunday-feat-earl-sweatshirt/1480547195?i=1480547201",
+        "spotify": "https://open.spotify.com/track/5aDZOMeCa6VuKJSENFsuGx?si=3c7dd3e2bcab48f9",
+        "tidal": "https://tidal.com/track/118353570/"
+      }
+    }
+  ]
 }
 
 function div(a, b) {return Math.floor(a/b)}
