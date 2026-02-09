@@ -225,7 +225,17 @@ const datedTracks = {
   "04-05": [],
   "04-06": [],
   "04-07": [],
-  "04-08": [],
+  "04-08": [
+    {
+      "title": "April 8th",
+      "artist": "Neutral Milk Hotel",
+      "external_links": {
+        "apple": "https://music.apple.com/us/album/april-8th/1839074660?i=1839074833",
+        "spotify": "https://open.spotify.com/track/6EmywUvSSF4PpIiF0ZZDlW?si=b96ed75de5674a27",
+        "tidal": "https://tidal.com/album/459804488/track/459804499"
+      },
+    }
+  ],
   "04-09": [],
   "04-10": [],
   "04-11": [],
@@ -831,7 +841,17 @@ const datedTracks = {
   "10-05": [],
   "10-06": [],
   "10-07": [],
-  "10-08": [],
+  "10-08": [
+    {
+      "title": "Huit octobre 1971",
+      "artist": "Cortex",
+      "external_links": {
+        "apple": "https://music.apple.com/us/album/huit-octobre-1971/1154110761?i=1154111662",
+        "spotify": "https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao?si=344961f72f724eb4",
+        "tidal": "https://tidal.com/album/64914684/track/64914693"
+      },
+    }
+  ],
   "10-09": [],
   "10-10": [],
   "10-11": [],
