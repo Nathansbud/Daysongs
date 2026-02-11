@@ -138,20 +138,20 @@ const datedTracks = {
   "02-26": [
     {
       "title": "February 26",
-      "artist": "Robo Pumpkin",
-      "external_links": {
-        "spotify": "https://open.spotify.com/track/4LgpU7rGq7JKBH6w27wpKU?si=2f3c2c8ed22b4b74h"
-      },
-    },
-    {
-      "title": "February 26",
       "artist": "Bailey Grey",
       "external_links": {
         "apple": "https://music.apple.com/us/song/february-26/1682228866",
         "spotify": "https://open.spotify.com/track/3T2FWYUF9763pYMZJ600ip?si=218dd4bc8b0044bd",
         "tidal": "https://tidal.com/track/289014739/"
       }
-    }
+    },
+    {
+      "title": "February 26",
+      "artist": "Robo Pumpkin",
+      "external_links": {
+        "spotify": "https://open.spotify.com/track/4LgpU7rGq7JKBH6w27wpKU?si=2f3c2c8ed22b4b74h"
+      },
+    },
   ],
   "02-27": [],
   "02-28": [],
