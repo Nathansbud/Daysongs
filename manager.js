@@ -19,7 +19,17 @@ const datedTracks = {
   ],
   "01-02": [],
   "01-03": [],
-  "01-04": [],
+  "01-04": [
+    {
+      "title": "January 4th",
+      "artist": "Manami Kakudo",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/january-4/1489681439",
+        "spotify": "https://open.spotify.com/track/2OUkEMc8B9FORDzGCWjDLR?si=16e9ae4c512c4937",
+        "tidal": "https://tidal.com/track/128201812/"
+      }
+    }
+  ],
   "01-05": [],
   "01-06": [],
   "01-07": [],
@@ -820,7 +830,17 @@ const datedTracks = {
   "10-22": [],
   "10-23": [],
   "10-24": [],
-  "10-25": [],
+  "10-25": [
+    {
+      "title": "October 25",
+      "artist": "Manami Kakudo",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/october-25/1489681436",
+        "spotify": "https://open.spotify.com/track/4g7jigVy3Zcve8YSb3pTnX?si=3ec4003094574010",
+        "tidal": "https://tidal.com/track/128201810/"
+      },
+    }
+  ],
   "10-26": [],
   "10-27": [],
   "10-28": [],
@@ -898,7 +918,17 @@ const datedTracks = {
   ],
   "11-19": [],
   "11-20": [],
-  "11-21": [],
+  "11-21": [
+    {
+      "title": "November 21",
+      "artist": "Manami Kakudo",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/november-21/1489681428",
+        "spotify": "https://open.spotify.com/track/1j3jxx7RHBqCWVRiuMuHSV?si=20f453de6b2e43cf",
+        "tidal": "https://tidal.com/track/128201806/"
+      },
+    }
+  ],
   "11-22": [],
   "11-23": [],
   "11-24": [],
@@ -945,7 +975,17 @@ const datedTracks = {
   "12-10": [],
   "12-11": [],
   "12-12": [],
-  "12-13": [],
+  "12-13": [
+    {
+      "title": "December 13",
+      "artist": "Manami Kakudo",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/december-13/1489680961",
+        "spotify": "https://open.spotify.com/track/1XvTVvtYjKhj6FUOFbKguY?si=483e9eef8ad44a46",
+        "tidal": "https://tidal.com/track/128201803/"
+      },
+    }
+  ],
   "12-14": [],
   "12-15": [],
   "12-16": [],
