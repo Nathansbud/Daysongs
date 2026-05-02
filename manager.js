@@ -94,7 +94,17 @@ const datedTracks = {
       },
     }
   ],
-  "02-04": [],
+  "02-04": [
+    {
+      "title": "Vodka Cranberry",
+      "artist": "Conan Gray",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/vodka-cranberry/1816089444",
+        "spotify": "https://open.spotify.com/track/6Ql76QUTIXajTh9cVjrAZl?si=fa642d5729b0485f",
+        "tidal": "https://tidal.com/track/452880360/"
+      }
+    }
+  ],
   "02-05": [],
   "02-06": [],
   "02-07": [
@@ -445,7 +455,26 @@ const datedTracks = {
   "06-06": [],
   "06-07": [],
   "06-08": [],
-  "06-09": [],
+  "06-09": [
+    {
+      "title": "June 9th Nighttime",
+      "artist": "Florist",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/june-9th-nighttime/1614340461",
+        "spotify": "https://open.spotify.com/track/0NvYcEGXXoLabFZARKmb0U?si=6b9618c30b99455c",
+        "tidal": "https://tidal.com/track/220887135/"
+      }
+    },
+    {
+      "title": "June 9th",
+      "artist": "Boards of Canada",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/june-9th/1686583350",
+        "spotify": "https://open.spotify.com/track/4t4bIeKzZlyXHwf7AtatWJ?si=c627b25a53c540eb",
+        "tidal": "https://tidal.com/track/293190054/"
+      }
+    }
+  ],
   "06-10": [],
   "06-11": [],
   "06-12": [],
@@ -507,6 +536,15 @@ const datedTracks = {
   "06-29": [],
   "06-30": [],
   "07-01": [
+    {
+      "title": "Canada Day",
+      "artist": "Emperor X",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/canada-day/1518263350",
+        "spotify": "https://open.spotify.com/track/6QmB5PRH4vSh76MIGp3ZGM?si=1dadb07413714c39",
+        "tidal": "https://tidal.com/track/179734571/"
+      }
+    },
     {
       "title": "Cross Your Mind",
       "artist": "Shelly",
@@ -746,7 +784,17 @@ const datedTracks = {
     }
   ],
   "09-14": [],
-  "09-15": [],
+  "09-15": [
+    {
+      "title": "September Fifteenth",
+      "artist": "Pat Metheny & Lyle Mays",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/september-fifteenth-dedicated-to-bill-evans/1523944360",
+        "spotify": "https://open.spotify.com/track/0xWZKUjJg2AxTIQCEfyJyZ?si=1ae3becafe7a47c2",
+        "tidal": "https://tidal.com/track/149753732/"
+      },
+    }
+  ],
   "09-16": [
     {
       "title": "Sept. 16",
@@ -902,7 +950,15 @@ const datedTracks = {
     }
   ],
   "11-12": [],
-  "11-13": [],
+  "11-13": [
+    {
+      "title": "November 13th",
+      "artist": "Serious Goose",
+      "external_links": {
+        "spotify": "https://open.spotify.com/track/2J7fxqAFIEZ9khFejWgJzq?si=1f460d091b024095"
+      }
+    }
+  ],
   "11-14": [],
   "11-15": [],
   "11-16": [],
@@ -1204,5 +1260,5 @@ window.onload = () => {
             prevBtn.addEventListener('click', navigatePrev)
             nextBtn.addEventListener('click', navigateNext)
         }
-    }
+    }    
 }
