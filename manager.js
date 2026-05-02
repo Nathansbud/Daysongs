@@ -666,7 +666,17 @@ const datedTracks = {
   "07-22": [],
   "07-23": [],
   "07-24": [],
-  "07-25": [],
+  "07-25": [
+    {
+      "title": "July 25, 2007",
+      "artist": "John-Allison Weiss",
+      "external_links": {
+        "apple": "https://music.apple.com/us/song/july-25-2007/1474402215",
+        "spotify": "https://open.spotify.com/track/4lpvb6RaReDcQpR0yVYGOd?si=94c7639ee6304b36",
+        "tidal": "https://tidal.com/track/114108417/",
+      }
+    }
+  ],
   "07-26": [],
   "07-27": [],
   "07-28": [],
