@@ -557,6 +557,15 @@ const datedTracks = {
   "07-03": [],
   "07-04": [
     {
+      "title": "Line Go Up Line Go Down",
+      "artist": "Emperor X",
+      "external_links": {
+        "spotify": "https://open.spotify.com/track/7HASP2XchCf5Wm7Kjlb7ua?si=6150db4cb7fd4cde",
+        "apple": "https://music.apple.com/uz/song/line-go-up-line-go-down/1885658175",
+        "tidal": "https://tidal.com/track/507645313/"
+      }
+    },
+    {
       "title": "Fourth of July",
       "artist": "Sufjan Stevens",
       "external_links": {
